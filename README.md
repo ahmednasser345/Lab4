@@ -1,8 +1,2 @@
 # Lab4
-
-
-
-
-
-
-import W
+WWWWWWW
